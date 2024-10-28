@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About Me
 - 🎓 **Second-Year Student** in **Software Engineering**, majoring in **Information Technology** (BEng)
 - 💻 Passionate about exploring new technologies, building projects, and honing my skills in coding and software development
-- 🌱 Currently learning advanced concepts in software design, algorithms, and systems development
+- 🌱 Currently learning Java
 
 ## Skills & Technologies
 - **Programming Languages**: Java, Python, JavaScript
