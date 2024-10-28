@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Jiayue! Feel free to call me Jessica 👋
 
 <!--
 **JY1Z/JY1Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+- 🎓 **Second-Year Student** in **Software Engineering**, majoring in **Information Technology** (BEng)
+- 💻 Passionate about exploring new technologies, building projects, and honing my skills in coding and software development
+- 🌱 Currently learning advanced concepts in software design, algorithms, and systems development
+
+## Skills & Technologies
+- **Programming Languages**: Java, Python, JavaScript
+- **Web Development**: MERN Full Stack (MongoDB, Express, React, Node.js)
+- **Software Tools**: Git, VS Code, Figma, PyCharm, IntelliJ IDEA
