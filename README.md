@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 - **Software Tools**: Git, VS Code, Figma, PyCharm, IntelliJ IDEA  
   
 ##
+📬 For any inquiries, feel free to reach out via my [contact form](https://forms.gle/zoZRLiukbXLDRxnaA).   
 🧩 Only selected repositories are public.    
